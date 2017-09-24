@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Bluetooth Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.45">
+        <g id="Bars-/-Status-Bar-White" transform="translate(-301.000000, -3.000000)" fill="#FFFFFF">
+            <g id="Status-Bar-White">
+                <path d="M305.427765,14.3689464 L305.427765,10.8107321 L307.139765,12.6751786 L305.427765,14.3689464 L305.427765,14.3689464 L305.427765,14.3689464 L305.427765,14.3689464 Z M307.218353,7.34653571 L305.427765,9.14782143 L305.427765,5.73521429 L307.218353,7.34653571 L307.218353,7.34653571 L307.218353,7.34653571 L307.218353,7.34653571 Z M305.857882,10.0108571 L308.514824,7.34653571 L304.550588,3.5 L304.456941,3.5 L304.456941,8.84985714 L301.766118,6.02883929 L301,6.82919643 L304.237647,10.0108571 L301,13.1920357 L301.766118,13.9923929 L304.456941,11.171375 L304.456941,16.52075 L304.628235,16.52075 L308.553412,12.6645714 L305.857882,10.0108571 L305.857882,10.0108571 Z" id="Bluetooth-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

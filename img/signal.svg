@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="6px" viewBox="0 0 34 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Signal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bars-/-Status-Bar-White" transform="translate(-7.000000, -7.000000)" fill="#FFFFFF">
+            <g id="Status-Bar-White">
+                <g id="Signal" transform="translate(7.500000, 7.500000)">
+                    <circle id="Oval-1" cx="2.75" cy="2.75" r="2.75"></circle>
+                    <circle id="Oval-1-copy" cx="9.75" cy="2.75" r="2.75"></circle>
+                    <circle id="Oval-1-copy-2" cx="16.75" cy="2.75" r="2.75"></circle>
+                    <path d="M23.75,5 L23.75,5 C24.9926408,5 26,3.99264076 26,2.75 C26,1.50735924 24.9926408,0.5 23.75,0.5 C22.5073592,0.5 21.5,1.50735924 21.5,2.75 C21.5,3.99264076 22.5073592,5 23.75,5 L23.75,5 Z M23.75,5.5 L23.75,5.5 C22.2312169,5.5 21,4.26878314 21,2.75 C21,1.23121686 22.2312169,0 23.75,0 C25.2687831,0 26.5,1.23121686 26.5,2.75 C26.5,4.26878314 25.2687831,5.5 23.75,5.5 L23.75,5.5 Z" id="Shape" fill-rule="nonzero"></path>
+                    <path d="M30.75,5 L30.75,5 C31.9926408,5 33,3.99264076 33,2.75 C33,1.50735924 31.9926408,0.5 30.75,0.5 C29.5073592,0.5 28.5,1.50735924 28.5,2.75 C28.5,3.99264076 29.5073592,5 30.75,5 L30.75,5 Z M30.75,5.5 L30.75,5.5 C29.2312169,5.5 28,4.26878314 28,2.75 C28,1.23121686 29.2312169,0 30.75,0 C32.2687831,0 33.5,1.23121686 33.5,2.75 C33.5,4.26878314 32.2687831,5.5 30.75,5.5 L30.75,5.5 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
